@@ -1,4 +1,4 @@
-# Real-Time-Forex-Trading-Strategy-Using-Reinforcement-Learning
+
 # 🏦 AI Forex Trading with Deep Q-Networks (DQN)
 
 This project trains an AI agent using Deep Q-Networks (DQN) to optimize forex trading strategies.
